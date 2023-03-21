@@ -1,4 +1,4 @@
-# COMP0004-Coursework
+# List Management App Web Application
 
 The program is for storing, searching, and viewing lists of information, essentially a general list 
 making application. While this is implemented as a web application assume it is for your own 
